@@ -13,8 +13,8 @@ from tqdm import tqdm
 import time
 
 # API Configuration
-API_URL = "http://bedroc-proxy-kbhtlwhggrzm-944033383.us-west-2.elb.amazonaws.com/api/v1/chat/completions"
-API_KEY = "aws_Bedrock123@pSwD"
+API_URL = ""
+API_KEY = ""
 MODEL_ID = "anthropic.claude-3-5-sonnet-20240620-v1:0"
 
 # Target languages
