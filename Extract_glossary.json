@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "invoke-the-glossary-list",
+  "private_key_id": "fb2a168e52ee33ac2092e29cabdc677e166c6260",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDafeXG0f3oMNN7\nssKXPxzuibY5h979gyatsaJC448r3txuEMMXfB0CosSXgy/D9W8e1xrB48yjlx14\nHSAm9XNorLSwzKhFQMv95DXC+08PjZBU5WuNztNGCs0cSWjWUuKYJxzOlYmQ6cLr\n9g0PLdia2DF/FoOy8knjHnJN8GAAVF9JPJvLbbn0Sn2tFdstoafIs8i3/0JfQUTz\nsZ9fZK/P2FlBiVxxKFGlp/98q4eq7j6tWe3sxzArw+5P5gMTXbALZxClIBIRa87T\nEBHvGXLIj8faWixy003w6IMaIeZ8qqjM/UTmh22/8WNnKTPgPtRbwOO0VpvlmCdn\ndTXnkRtzAgMBAAECggEAB2HW+4nVzw+mdzJgTvVQpQidhQ6y38e1U1h1avAlKSGa\nOtSX9HlHjtkkB+bkgsKOP7FoRu7+isDZoiWalAAADb3XS9y/8YZE18e4DBkrBmBm\n/rW5SOAyyDxa/ZH6l+wGAId1x2ixbky2C5XtKNTVa2nsxjMv11us8Z6lbj4caEMu\nTeLVt31T1hSZN3UtcZ2pslZ/KD3Yun6kkPHpG/7pYVAvw358KDagkqBQz551RBfd\nDuvN0pDiTF0rOaVbSvybR8oS0eTyIkZwlvTLArzOyWHeb2PplsrNaIQUSTkNxswo\nTxjPxfBbw/elaPIWX+5ZjD3ZGfnj6Pi7tRhf5MUKHQKBgQD9cdboJzEKcLDAQmqA\nyZOYeOrfPhQEZTObAofHGM/gzImSP4o5jVR+7yase1iDGOFKjpxT5oQJT78cKxjy\n5/Dv5QsdwtLB718c7l6laAaHrBNIxm4FrH29fI4L+VxlDbZhfRSdDJd+oZ2jShJZ\nIySZvWj6V2+qbvduYrZQPbqD/wKBgQDcsdeIew/8qUBcSM6mOLv5RqEMrPv/bQKF\n+fzC6Ovj+HShp98PP2TiHioUOUi93iSi9k3JwKyywZUGceqb8JEUaJBjrc51yRPY\nAtjCTu41cIG+QMZEi1mTcl3FiTMJYDWw8NDAIrYgodWqnFgIwwHlIsoHAMiG+jlh\nI3FbeomYjQKBgHfUPTHiZdNz2H3uaQCfTgOHGDWY2koBt1aQ6bV+y7qTum/FTwtL\nASpK1FQ0tXK2br6bktowYTkt1UPyNIeUllw2RP07Qf6juKqrIWC/QGchOrTr7NUN\n6x2OKHMM4Vx+ET8irn5al74tl6S+vtIaRZHS9jF26bsBYEd2sJBbvzXtAoGAemeV\nEJiY1F0XWlfzbdQXxfl7h6lGF3RhqudtXrmLZCTAo4yVNkLF9HgghJkFFHHqRgxw\nNo9L+dVOj4WNRzJVdUlNlEupMED3ZZ6mlJbsne0puNj6XrgfVZ1gDxi6mt+mx925\nGmfmNhEsjfUrCqkGGw2BmgLANcUBIDRlQgSj3l0CgYAWPRCtcD546F7xOLQsaszc\nsfwaKztw+Roq8U8xk4lfTYCKMFkmkB5iEiGn/TK0omAJeoFHJe+nkN0i3BEw7ZTl\nDJZH3yS8dn33ZxtQCgEs/7PzmNF9pjzmtyWbslVRfajTo7t8xN1fhLJ0SAgOQpAW\nDjcdCPhmZo+/nhR71RuQSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-script-access@invoke-the-glossary-list.iam.gserviceaccount.com",
+  "client_id": "103513792065556461003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-script-access%40invoke-the-glossary-list.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
